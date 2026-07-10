@@ -1,0 +1,33 @@
+# Flutter
+app/build/
+app/.dart_tool/
+app/.packages
+app/.flutter-plugins*
+app/.flutter-plugins-dependencies
+
+# Android
+app/android/app/build/
+app/android/.gradle/
+
+# iOS
+app/ios/Pods/
+app/ios/.symlinks/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Environment
+.env
+
+# Local git repo (同步用)
+gitsync_repo/
+
+# Temp
+tmp/
+*.tmp
+
+# OS
+Thumbs.db
+.DS_Store
