@@ -1,1 +1,21 @@
-{"files":[],"last_updated":"2026-01-01T00:00:00Z"}
+{
+  "files": [
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "name": "gitsync-test.txt",
+      "type": "text/plain",
+      "size": 87,
+      "versions": [
+        {
+          "commit": "test",
+          "timestamp": "2026-07-10T08:15:00Z",
+          "size": 87
+        }
+      ],
+      "current_commit": "test",
+      "uploaded_by": "app_user",
+      "uploaded_at": "2026-07-10T08:15:00Z"
+    }
+  ],
+  "last_updated": "2026-07-10T08:15:00Z"
+}
